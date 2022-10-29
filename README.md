@@ -1,1 +1,1 @@
-# grade-app
+# bmi-app
